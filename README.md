@@ -8,9 +8,7 @@
 
 -欢迎联系我QQ:1149558764
 
--Chinese undergraduate student studying computer science,
-
-occasionally push some fun little project.
+-Chinese undergraduate student studying computer science,occasionally push some fun little project.
 
 -I love animation, is a senior indoorsman
   
