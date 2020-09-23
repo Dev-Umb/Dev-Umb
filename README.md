@@ -6,7 +6,7 @@
 
 -爱好动漫，胶佬一名
 
--欢迎联系我QQ:1149558764
+-有任何问题欢迎在Issue中提出
 
 -Chinese undergraduate student studying computer science,occasionally push some fun little project.
 
