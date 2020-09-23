@@ -11,8 +11,6 @@
 -Chinese undergraduate student studying computer science,occasionally push some fun little project.
 
 -I love animation, is a senior indoorsman
-  
--Welcome to contact me:QQ:1149558764
 
 
 
