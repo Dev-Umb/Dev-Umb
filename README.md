@@ -10,6 +10,7 @@
 
 -I love animation, is a senior indoorsman
 
+-欢迎访问我的[博客](https://farewell12345.github.io/)
 
 <a href="#">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=farewell12345&show_icons=true&hide_border=true&icon_color=434343&title_color=a4a4a4">
