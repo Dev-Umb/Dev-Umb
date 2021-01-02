@@ -16,7 +16,7 @@
 
 
 <a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=farewell12345&show_icons=true&hide_border=true&icon_color=434343&title_color=a4a4a4">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=farewell12345&show_icons=true&hide_border=true&icon_color=434343&title_color=a4a4a4">
 </a>
 
 
