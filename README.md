@@ -6,9 +6,6 @@
 
 -有任何问题欢迎在Issue中提出
 
--Chinese undergraduate student studying computer science,occasionally push some fun little project.
-
--I love animation, is a senior indoorsman
 
 -欢迎访问我的[博客](https://farewell12345.github.io/)
 
