@@ -7,7 +7,7 @@
 -有任何问题欢迎在Issue中提出
 
 
--欢迎访问我的[博客](https://farewell12345.github.io/)
+-欢迎访问我的[博客](https://umb.ink/)
 
 
 
